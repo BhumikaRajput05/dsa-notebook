@@ -1,0 +1,39 @@
+FIRST CODE
+#include<iostream>
+using namespace std;
+int main(){
+cout<<"heloo world"<<endl;
+}
+---------------------------------------------
+endl -> new line or enter
+\n -> enter 
+---------------------------------------------
+DATA TYPES & VARIABLES
+int -> 4byte or 32 bits
+char -> 1byte or 8bit
+bool -> 1bit
+float -> 8byte 
+double -> 8byte 
+------------------------------------------------
+OPERATORS 
+% modulo operator
+Arithmetic ->   + , -,*,/
+int/int = int 
+float/int = float
+ ----------------------------------------------------------
+RELATIONAL OPERATORS
+=
+>
+<
+>=
+<=
+!=
+-------------------------------------------------------------------
+LOGICAL OPERATOR
+&& -> ALL conditons should be true
+|| -> any condition can be true its valid 
+!   -> its change the condition 
+        true = false
+        false = true
+-------------------------------------------------------------
+
