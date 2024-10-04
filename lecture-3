@@ -1,0 +1,18 @@
+ CONDITIONAL STATEMENT 
+ ---------------------
+IF
+ if(conditions)
+{
+    ----
+    ----
+}
+--------------------------------------------
+IF-ELSE BLOCK 
+input - a=5
+if(a>0)
+{
+  print(+ve)
+}
+else{
+   print(not +ve)
+} 
